@@ -1,7 +1,7 @@
 # Site settings
 title: thelastvicar Blog
 SEOTitle: thelastvicar
-header-img: img/IMG_4884.JPG
+header-img: /img/IMG_4884.JPG
 email: 15080007266@qq.com
 description: "Every failure is leading towards success."
 keyword: "thelastvicar"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I wanna be the guy"
-sidebar-avatar: img/IMG_1423.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/IMG_1423.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
